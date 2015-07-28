@@ -1,12 +1,12 @@
 
-# specralize
+# spectralize
 
 Generates mathematically-derived spectral color arrays
 
 ## Usage
 
 ```js
-var specralize = require('spectralize')
+var spectralize = require('spectralize')
 
 var colors = spectralize({
   h: 20,
